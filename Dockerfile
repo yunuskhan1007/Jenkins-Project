@@ -1,7 +1,7 @@
 # Node Base Image
 FROM node:12.2.0-alpine
 
-#Working Directry
+#Working Directrys
 WORKDIR /node
 
 #Copy the Code
